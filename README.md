@@ -1,1 +1,1 @@
-# Medical_Insurance_price_Pridiction
+# Medical_Insurance_price_Pridiction_model
