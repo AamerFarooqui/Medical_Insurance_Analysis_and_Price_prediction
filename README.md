@@ -1,3 +1,5 @@
+# 🩺Medical_Insurance Analysis and Price prediction
+
 ## 📌 Project Overview
 
 This project focuses on analyzing medical insurance data and building a machine learning model to predict insurance prices based on various factors such as age, BMI, smoking habits, and health conditions.
@@ -60,27 +62,6 @@ Key visualizations performed:
 
 ---
 
-## 🧠 Machine Learning Model
-
-* Algorithm Used: **Linear Regression**
-* Target Variable: `Insurance_Price`
-* Features:
-
-  * Age
-  * BMI
-  * Smoking Status
-  * Health Issues
-  * Number of Dependents
-
-### 📈 Model Performance
-
-* Evaluated using:
-
-  * R² Score
-  * Mean Absolute Error (MAE)
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
@@ -122,7 +103,24 @@ Key visualizations performed:
 <img width="942" height="651" alt="image" src="https://github.com/user-attachments/assets/9dcfed44-1bae-4007-9c9d-2ddea605135d" />
 
 ---
+## 🧠 Machine Learning Model
 
+* Algorithm Used: **Linear Regression**
+* Target Variable: `Insurance_Price`
+* Features:
+
+  * Age
+  * BMI
+  * Smoking Status
+  * Health Issues
+  * Number of Dependents
+
+---
+
+### 📈 Model Interface
+<img width="587" height="817" alt="image" src="https://github.com/user-attachments/assets/2f420a36-853c-494e-b339-5827750715d4" />
+
+---
 
 ## 🤝 Contributing
 
