@@ -1,5 +1,3 @@
-<img width="671" height="179" alt="image" src="https://github.com/user-attachments/assets/96bde948-27d9-473a-84b9-876396eee7c4" /># 🏥 Medical Insurance Analysis and Price Prediction System
-
 ## 📌 Project Overview
 
 This project focuses on analyzing medical insurance data and building a machine learning model to predict insurance prices based on various factors such as age, BMI, smoking habits, and health conditions.
