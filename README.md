@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Analysis and Price Prediction System
+<img width="671" height="179" alt="image" src="https://github.com/user-attachments/assets/96bde948-27d9-473a-84b9-876396eee7c4" /># 🏥 Medical Insurance Analysis and Price Prediction System
 
 ## 📌 Project Overview
 
@@ -28,11 +28,17 @@ The goal is to:
 
 ```
 Medical-Insurance-Analysis_and Price_Prediction/
-│── health_data_1000.csv
 |
-│── main.ipynb
-|
-│── README.md
+├── dataset/
+│   └── health_data_100.csv
+│
+├── notebook/
+│   └── Notebook.ipynb
+│
+├── Prediction Model/
+│   └── Model.py
+│
+└── README.md
 ```
 
 ---
